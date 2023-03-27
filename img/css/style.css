@@ -1,0 +1,397 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    font-family: "Montserrat";
+    font-style: normal;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 1400px;
+}
+
+header {
+    background-color: #283F44;
+}
+
+.container {
+    width: 1300px;
+    margin: 0 auto;
+}
+
+.header {
+    padding-top: 50px;
+    line-height: 70px;
+}
+
+.header_left {
+    float: left;
+    padding-left: 45px;
+}
+
+.header_left p {
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.header_right {
+    float: left;
+    padding-left:260px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    float: left;
+    padding-right: 75px;
+
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.QAF {
+    padding-right: 0px;
+}
+
+.FAQ {
+    border-right: 4px solid white;
+    border-top: none;
+    border-left: none;
+    border-bottom: none;
+    height: 50px;
+    margin-right: 75px;
+    padding-left: 0px;
+}
+
+nav ul li span {
+    border-radius: 8%;
+    background-color: #FFFFFF;
+    height: 60px;
+    width: 140px;
+    color: #283f44;
+    display: inline-block;
+    line-height: 60px;
+
+}
+
+nav ul li span a {
+    color: #283f44;
+    display: inline-block;
+    line-height: 60px;
+    padding-left: 10px;
+}
+
+.section_1 {
+    background-color: #283F44;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 35px;
+    color: #FFFFFF;
+    width: 550px;
+    padding-top: 20px;
+    padding-left: 370px;
+    text-align: center;
+}
+
+.section_1-img {
+    padding: 50px;
+}
+
+.section_1-text {
+    float: left;
+    padding-left: 20px;
+    width: 300px;
+    padding-top: 40px;
+    padding-right: 160px;
+    border-top: 3px solid white;
+    margin-top: 50px;
+}
+
+.section_1-text h2 {
+    font-size: 25px;
+    color: white;
+    font-weight: 700;
+}
+
+.section_1-text p {
+    font-size: 10px;
+    color: #FFFFFF;
+    padding-top: 30px;
+    font-weight: 400;
+}
+
+.section_2-text {
+    float: left;
+    padding-top: 40px;
+    width: 300px;
+    padding-right: 170px;
+    border-top: 3px solid grey;
+    margin-top: 50px;
+}
+
+.section_2-text h2 {
+    color: #FFFFFF;
+    font-size: 25px;
+}
+
+.section_2-text p {
+    font-size: 10px;
+    color: #FFFFFF;
+    font-weight: 400;
+    padding-top: 30px;
+}
+
+.section_3-text {
+    float: left;
+    padding-top: 40px;
+    width: 250px;
+    border-top: 3px solid grey;
+    margin-top: 50px;
+}
+
+.section_3-text h2 {
+    color: #FFFFFF;
+    font-size: 25px;
+}
+
+.section_3-text p {
+    font-size: 10px;
+    color: #FFFFFF;
+    font-weight: 400;
+    padding-top: 30px;
+}
+
+.section_1-text2 {
+    float: left;
+    width: 600px;
+    padding-top: 140px;
+}
+
+.section_1-text2 h2 {
+    color: #FFFFFF;
+    font-size: 50px;
+}
+
+.years {
+    float: left;
+    width: 300px;
+    padding-top: 50px;
+}
+
+.span1 {
+    padding-left: 30px;
+}
+
+.years span {
+    font-size: 80px;
+}
+
+.years h3 {
+    color: #FFFFFF;
+    font-size: 18px;
+}
+
+.old {
+    float: left;
+    width: 300px;
+    padding-top: 50px;
+}
+
+.span2 {
+    padding-left: 45px;
+}
+
+.old h3 {
+    color: #FFFFFF;
+    font-size: 18px;
+}
+
+.old span {
+    font-size: 80px;
+}
+
+.section_1-text2 p {
+    color: #FFFFFF;
+    line-height: 50px;
+    font-size: 25px;
+    font-weight: 400;
+    text-align: justify;
+    padding-left: 80px;
+}
+
+.house_1 {
+    float: left;
+    padding-left: 50px;
+    padding-bottom: 100px;
+}
+
+.our {
+    font-size: 50px;
+    width: 550px;
+    font-weight: 700;
+    color: #000000;
+    padding-top: 50px;
+}
+
+.silka {
+    color: #00D1FF;
+    font-size: 30px;
+    padding-top: 25px;
+}
+
+.house_title {
+    font-size: 28px;
+    padding-top: 25px;
+    width: 500px;
+    font-weight: 400;
+    padding-left: 35px;
+
+}
+
+.house_text1 {
+    font-size: 18px;
+    width: 250px;
+    padding-top: 20px;
+    padding-left: 35px;
+}
+
+.house_text2 {
+    font-size: 18px;
+    width: 250px;
+    padding-top: 20px;
+    padding-left: 35px;
+}
+
+.house_2 {
+    float: left;
+    padding-left: 100px;
+}
+
+.house_image {
+    padding-top: 70px;
+
+}
+
+.house_title1 {
+    padding-left: 0px;
+    font-size: 28px;
+    padding-top: 25px;
+    width: 500px;
+    font-weight: 400;
+}
+
+.house_text3 {
+    font-size: 18px;
+    width: 300px;
+    padding-top: 20px;
+    padding-left: 0px;
+}
+
+.house_text4 {
+    font-size: 18px;
+    width: 300px;
+    padding-top: 20px;
+    padding-left: 25px;
+}
+
+.section_3 {
+    background-color: #283f44;
+}
+
+.section_3 h2 {
+    color: #FFFFFF;
+    font-size: 45px;
+    font-weight: 700;
+    width: 500px;
+    padding-top: 70px;
+    padding-left: 70px;
+    float: left;
+}
+
+.viev {
+    font-weight: 400;
+    font-size: 15px;
+    color: #3FD7F9;
+    padding-top: 150px;
+    display: block;
+    padding-left: 580px;
+    float: left;
+}
+
+.models_1 {
+    float: left;
+    width: 300px;
+    padding-top: 60px;
+    padding-right: 80px;
+    padding-left: 50px;
+}
+
+.models_title {
+    width: 250px;
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+    padding-top: 30px;
+}
+
+.models_text {
+    color: #FFFEFE87;
+    font-weight: 700;
+    font-size: 10px;
+    width: 250px;
+    padding-top: 20px;
+}
+
+footer {
+    background-color: #283f44;
+}
+
+.footer_left {
+    float: left;
+    padding-top: 35px;
+    padding-left: 70px;
+    padding-bottom: 30px;
+}
+
+.footer_left p {
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.footer_right {
+    float: left;
+    padding-left: 450px;
+    padding-top: 35px;
+    padding-bottom: 30px;
+}
+
+.footer_right nav ul li {
+    float: left;
+    padding-right: 55px;
+    font-size: 15px;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.tozalash {
+    clear: both;
+}
